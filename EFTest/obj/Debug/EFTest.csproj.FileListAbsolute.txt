@@ -1,0 +1,14 @@
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\bin\Debug\EFTest.exe.config
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\bin\Debug\EFTest.exe
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\bin\Debug\EFTest.pdb
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\bin\Debug\EntityFramework.dll
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\bin\Debug\EntityFramework.xml
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\obj\Debug\EFTest.csprojResolveAssemblyReference.cache
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\obj\Debug\EFTest.exe
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\obj\Debug\EFTest.pdb
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\bin\Debug\DevOne.Security.Cryptography.BCrypt.dll
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\obj\Debug\EFTest.CreateProfile.resources
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\obj\Debug\EFTest.csproj.GenerateResource.Cache
+c:\users\nro111\documents\visual studio 2015\Projects\EFTest\EFTest\obj\Debug\EFTest.LoginForm.resources
